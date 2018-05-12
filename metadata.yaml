@@ -1,0 +1,38 @@
+_repo: The-Letters-of-CassiodorusMagnus-Aurelius-Cassiodorus-Senator_18590
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hodgkin, Thomas
+    birthdate: 1831
+    deathdate: 1913
+    gutenberg_agent_id: '8136'
+    url: http://www.gutenberg.org/2009/agents/8136
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hodgkin_(historian)
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cassiodorus, Senator
+    alias: Cassiodorius, Flavius Magnus Aurelius, Senator
+    birthdate: 484
+    deathdate: 580
+    gutenberg_agent_id: '8135'
+    url: http://www.gutenberg.org/2009/agents/8135
+    wikipedia: http://en.wikipedia.org/wiki/Cassiodorus
+description: ''
+gutenberg_issued: '2006-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18590'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Goths -- Italy'
+- !lcsh 'Italy -- History -- 476-1268'
+- !lcc 'DG'
+title: "The Letters of Cassiodorus\r\nBeing a Condensed Translation of the Variae\
+  \ Epistolae of Magnus Aurelius Cassiodorus Senator"
+url: http://www.gutenberg.org/ebooks/18590
