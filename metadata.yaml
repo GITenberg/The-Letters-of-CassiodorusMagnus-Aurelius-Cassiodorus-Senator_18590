@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8135
     wikipedia: http://en.wikipedia.org/wiki/Cassiodorus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18590#The-Letters-of-CassiodorusMagnus-Aurelius-Cassiodorus-Senator
 gutenberg_issued: '2006-06-15'
 gutenberg_type: Text
 identifiers:
